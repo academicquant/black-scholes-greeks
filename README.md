@@ -27,4 +27,4 @@ The last test skips the 16 cases where vega is below 0.01. When an option is dee
 
 Newton's method on vega converges faster, but it can overshoot badly when vega is small. Bisection takes about 43 steps here and never leaves the bracket, which is a fair trade for a reference implementation.
 
-If you're preparing for quant interviews, there are stochastic calculus and Black-Scholes questions with worked answers at https://geodesicpartners.co.uk/quant-questions-stochastic-calculus
+If you're preparing for quant interviews, there are stochastic calculus and Black-Scholes questions with worked answers at https://academicquant.co.uk/quant-questions-stochastic-calculus
